@@ -41248,7 +41248,7 @@ a_(){var s=this.a.c,r=this.d.b
 if(s!=null)r.A(0,s.d)
 else r.A(0,$.ev)
 this.ac()},
-G(a,b){var s,r,q,p,o,n,m=this,l=null,k=A.dM("Bad Deeds"),j=A.Y((m.a.c==null?"Add":"Edit")+" BadDeeds Question",l,l,l,A.M(b).E.r,l,l),i=A.L(l,10,l),h=b.S(t.w).f.a.a/8,g=A.Y("Title",l,l,l,A.M(b).E.x,l,l),f=A.L(l,4,l),e=m.a.c
+G(a,b){var s,r,q,p,o,n,m=this,l=null,k=A.dM("Bad Deeds"),j=A.Y((m.a.c==null?"Add":"Edit")+" Violence Enhancers Question",l,l,l,A.M(b).E.r,l,l),i=A.L(l,10,l),h=b.S(t.w).f.a.a/8,g=A.Y("Title",l,l,l,A.M(b).E.x,l,l),f=A.L(l,4,l),e=m.a.c
 e=e==null?l:e.a
 s=m.f
 e=A.c2(l,B.N,l,e,l,60,1,l,new A.afC(m),s.glB())
@@ -42253,7 +42253,7 @@ a_(){var s=this,r=s.a.c,q=s.d.b
 if(r!=null){q.A(0,r.r)
 s.Q=s.a.c.d}else{s.Q="text"
 q.A(0,$.ev)}s.ac()},
-G(a5,a6){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d=this,c=null,b=A.dM("Good Deeds"),a=A.Y((d.a.c==null?"Add":"Edit")+" GoodDeeds Question",c,c,c,A.M(a6).E.r,c,c),a0=A.L(c,10,c),a1=a6.S(t.w).f.a.a/8,a2=A.Y("Title",c,c,c,A.M(a6).E.x,c,c),a3=A.L(c,4,c),a4=d.a.c
+G(a5,a6){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d=this,c=null,b=A.dM("Good Deeds"),a=A.Y((d.a.c==null?"Add":"Edit")+" Violence Reducers Question",c,c,c,A.M(a6).E.r,c,c),a0=A.L(c,10,c),a1=a6.S(t.w).f.a.a/8,a2=A.Y("Title",c,c,c,A.M(a6).E.x,c,c),a3=A.L(c,4,c),a4=d.a.c
 a4=a4==null?c:a4.a
 s=d.f
 a4=A.c2(c,B.N,c,a4,c,60,1,c,new A.ag3(d),s.glB())
